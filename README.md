@@ -1,6 +1,6 @@
 # 👋 Halo, nama saya Rafli !
 
-## About Me :
+## Tentang Saya :
 📚 Saya adalah seorang mahasiswa di Universitas Pamulang, sedang menempuh pendidikan di jurusan Teknik Informatika. Saya sangat antusias dalam dunia teknologi dan senang mempelajari berbagai aspek di bidang Pengembangan Web.
 
 💻 Saat ini, saya sedang mengembangkan keterampilan pemrograman saya melalui proyek-proyek pribadi dan tugas akademik.
